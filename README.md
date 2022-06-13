@@ -1,2 +1,2 @@
 # pixi_picross
- pixi.jsで作ったpicross
+ p5.jsで作ったpicross
